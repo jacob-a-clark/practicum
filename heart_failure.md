@@ -17,7 +17,7 @@ Type | Total | Min | 1st Q | Median | Mean | 3rd Q | Max
 
 **Graphical Description**
 
-[](congestive_heart_failure_count_grid.svg)
+[](heart_failure_count_grid.svg)
 
 
 ***
@@ -28,9 +28,9 @@ Type | Total | Min | 1st Q | Median | Mean | 3rd Q | Max
 
 **Graphical Description**
 
-![](/images/congestive_heart_failure_adjusted_grid.svg)
-![](/images/congestive_heart_failure_adjusted_dotplots.svg)
-![](/images/congestive_heart_failure_adjusted_dmap.svg)
-![](/images/congestive_heart_failure_adjusted_hmap.svg)
-![](/images/congestive_heart_failure_adjusted_rmap.svg)
-![](/images/congestive_heart_failure_adjusted_ratiobar.svg)
+![](/images/heart_failure_adjusted_grid.svg)
+![](/images/heart_failure_adjusted_dotplots.svg)
+![](/images/heart_failure_adjusted_dmap.svg)
+![](/images/heart_failure_adjusted_hmap.svg)
+![](/images/heart_failure_adjusted_rmap.svg)
+![](/images/heart_failure_adjusted_ratiobar.svg)
