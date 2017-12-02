@@ -15,6 +15,7 @@ The following are links to the various parts of the practicum, in order, that le
 [Introduction](Intro.md)
 
 Obesity-related health outcomes:
+
 [Diabetes](diabetes.md)
 
 [Hypertension](hypertension.md)
