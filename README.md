@@ -16,12 +16,19 @@ The following are links to the various parts of the practicum, in order, that le
 
 Obesity-related health outcomes:
 [Diabetes](diabetes.md)
+
 [Hypertension](hypertension.md)
+
 [Myocardial Infarction](myocardial mnfarction.md)
+
 [Breast Cancer](breast cancer.md)
+
 [Prostate Cancer](prostate cancer.md)
+
 [Colorectal Cancer](colorectal cancer.md)
+
 [Congestive Heart Failure](congestive heart failure.md)
+
 [Gallbladder Disease](gallbladder disease.md)
 
 [Ranking Method and results](ranking.md)
