@@ -1,40 +1,36 @@
-## Welcome to GitHub Pages
+## Homepage
 
-You can use the [editor on GitHub](https://github.com/jacob-a-clark/practicum/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This website presents the work and findings of a practicum completed at The University of Iowa.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Its primary goals were:
+- (1) to assess the viability of the Iowa Department of Public Health Tracking Portal by
+- (2) analyzing data retrieved from the Tracking Portal related to obesity-related outcomes in order to pinpoint outlier counties for obesity and
+- (3) use qualitative methods to follow-up on these counties to further investigate possible factors and supporting evidence for the results of the data
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Links
+
+The following are links to the various parts of the practicum, in order, that lead to recommendations and conclusions.
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+[Introduction](Intro.md)
 
-- Bulleted
-- List
+Obesity-related health outcomes:
+[Diabetes](diabetes.md)
+[Hypertension](hypertension.md)
+[Myocardial Infarction](myocardial mnfarction.md)
+[Breast Cancer](breast cancer.md)
+[Prostate Cancer](prostate cancer.md)
+[Colorectal Cancer](colorectal cancer.md)
+[Congestive Heart Failure](congestive heart failure.md)
+[Gallbladder Disease](gallbladder disease.md)
 
-1. Numbered
-2. List
+[Ranking Method and results](ranking.md)
 
-**Bold** and _Italic_ and `Code` text
+[Interviews](interviews.md)
 
-[Link](url) and ![Image](src)
+[Conclusions](conclusions.md)
+
+[Appreciation and References](references.md)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jacob-a-clark/practicum/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-Try this: [intro](Intro.md)
-Or this: [about page](about.md)
