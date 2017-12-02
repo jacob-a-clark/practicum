@@ -17,7 +17,7 @@ Type | Total | Min | 1st Q | Median | Mean | 3rd Q | Max
 
 **Graphical Description**
 
-[](gallbladder_disease_count_grid.svg)
+![](/images/gallbladder_disease_count_grid.svg)
 
 
 ***
