@@ -1,4 +1,4 @@
-## Homepage
+# Homepage
 
 This website presents the work and findings of a practicum completed at The University of Iowa.
 
@@ -8,7 +8,7 @@ Its primary goals were:
 - (3) use qualitative methods to follow-up on these counties to further investigate possible factors and supporting evidence for the results of the data
 
 
-## Links
+### Links
 
 The following are links to the various parts of the practicum, in order, that lead to recommendations and conclusions.
 
