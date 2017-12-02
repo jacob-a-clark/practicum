@@ -15,7 +15,7 @@ Type | Total | Min | 1st Q | Median | Mean | 3rd Q | Max
 
 **Graphical Description**
 
-[](cancer_breast_count_grid.svg)
+![](/images/cancer_breast_count_grid.svg)
 
 
 ***
