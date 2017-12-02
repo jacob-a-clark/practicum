@@ -15,7 +15,7 @@ Type | Total | Min | 1st Q | Median | Mean | 3rd Q | Max
 
 **Graphical Description**
 
-[](colorectal_cancer_count_grid.svg)
+[](cancer_colorectal_count_grid.svg)
 
 
 ***
@@ -26,9 +26,9 @@ Type | Total | Min | 1st Q | Median | Mean | 3rd Q | Max
 
 **Graphical Description**
 
-![](/images/colorectal_cancer_adjusted_grid.svg)
-![](/images/colorectal_cancer_adjusted_dotplots.svg)
-![](/images/colorectal_cancer_adjusted_dmap.svg)
-![](/images/colorectal_cancer_adjusted_hmap.svg)
-![](/images/colorectal_cancer_adjusted_rmap.svg)
-![](/images/colorectal_cancer_adjusted_ratiobar.svg)
+![](/images/cancer_colorectal_adjusted_grid.svg)
+![](/images/cancer_colorectal_adjusted_dotplots.svg)
+![](/images/cancer_colorectal_adjusted_dmap.svg)
+![](/images/cancer_colorectal_adjusted_hmap.svg)
+![](/images/cancer_colorectal_adjusted_rmap.svg)
+![](/images/cancer_colorectal_adjusted_ratiobar.svg)
