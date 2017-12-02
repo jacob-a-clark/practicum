@@ -16,7 +16,7 @@ Type | Total | Min | 1st Q | Median | Mean | 3rd Q | Max
 
 **Graphical Description**
 
-[](myocardial_infarction_count_grid.svg)
+![](/images/myocardial_infarction_count_grid.svg)
 
 
 ***
