@@ -12,8 +12,6 @@ Its primary goals were:
 
 The following are links to the various parts of the practicum, in order, that lead to recommendations and conclusions.
 
-```markdown
-
 [Introduction](Intro.md)
 
 Obesity-related health outcomes:
@@ -33,4 +31,3 @@ Obesity-related health outcomes:
 [Conclusions](conclusions.md)
 
 [Appreciation and References](references.md)
-```
