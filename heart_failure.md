@@ -17,7 +17,7 @@ Type | Total | Min | 1st Q | Median | Mean | 3rd Q | Max
 
 **Graphical Description**
 
-[](heart_failure_count_grid.svg)
+![](/images/heart_failure_count_grid.svg)
 
 
 ***
