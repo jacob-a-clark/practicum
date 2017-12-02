@@ -15,7 +15,7 @@ Type | Total | Min | 1st Q | Median | Mean | 3rd Q | Max
 
 **Graphical Description**
 
-[](breast_cancer_count_grid.svg)
+[](cancer_breast_count_grid.svg)
 
 
 ***
@@ -26,9 +26,9 @@ Type | Total | Min | 1st Q | Median | Mean | 3rd Q | Max
 
 **Graphical Description**
 
-![](/images/breast_cancer_adjusted_grid.svg)
-![](/images/breast_cancer_adjusted_dotplots.svg)
-![](/images/breast_cancer_adjusted_dmap.svg)
-![](/images/breast_cancer_adjusted_hmap.svg)
-![](/images/breast_cancer_adjusted_rmap.svg)
-![](/images/breast_cancer_adjusted_ratiobar.svg)
+![](/images/cancer_breast_adjusted_grid.svg)
+![](/images/cancer_breast_adjusted_dotplots.svg)
+![](/images/cancer_breast_adjusted_dmap.svg)
+![](/images/cancer_breast_adjusted_hmap.svg)
+![](/images/cancer_breast_adjusted_rmap.svg)
+![](/images/cancer_breast_adjusted_ratiobar.svg)
