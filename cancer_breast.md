@@ -1,5 +1,4 @@
-[Homepage](..)
-[I'm an inline-style link](https://www.google.com)
+[Homepage](https://jacob-a-clark.github.io/practicum/)
 # Breast Cancer (Female and Male)
 
 Cancer is a term for diseases in which abnormal cells divide without control and can invade nearby tissues. Breast cancer is a disease in which malignant (cancer) cells form in the tissues of the breast.
