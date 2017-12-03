@@ -17,7 +17,7 @@ Type | Total | Min | 1st Q | Median | Mean | 3rd Q | Max
 
 **Graphical Description**
 
-![](/images/hypertension_count_grid.svg)
+![img](/images/hypertension_count_grid.svg)
 
 
 ***
@@ -28,9 +28,9 @@ Type | Total | Min | 1st Q | Median | Mean | 3rd Q | Max
 
 **Graphical Description**
 
-![](/images/hypertension_adjusted_grid.svg)
-![](/images/hypertension_adjusted_dotplots.svg)
-![](/images/hypertension_adjusted_dmap.svg)
-![](/images/hypertension_adjusted_hmap.svg)
-![](/images/hypertension_adjusted_rmap.svg)
-![](/images/hypertension_adjusted_ratiobar.svg)
+![img](/images/hypertension_adjusted_grid.svg)
+![img](/images/hypertension_adjusted_dotplots.svg)
+![img](/images/hypertension_adjusted_dmap.svg)
+![img](/images/hypertension_adjusted_hmap.svg)
+![img](/images/hypertension_adjusted_rmap.svg)
+![img](/images/hypertension_adjusted_ratiobar.svg)
