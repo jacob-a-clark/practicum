@@ -17,7 +17,7 @@ Type | Total | Min | 1st Q | Median | Mean | 3rd Q | Max
 
 **Graphical Description**
 
-![](/images/diabetes_count_grid.svg)
+![img](/images/diabetes_count_grid.svg)
 
 
 ***
@@ -28,9 +28,9 @@ Type | Total | Min | 1st Q | Median | Mean | 3rd Q | Max
 
 **Graphical Description**
 
-![](/images/diabetes_adjusted_grid.svg)
-![](/images/diabetes_adjusted_dotplots.svg)
-![](/images/diabetes_adjusted_dmap.svg)
-![](/images/diabetes_adjusted_hmap.svg)
-![](/images/diabetes_adjusted_rmap.svg)
-![](/images/diabetes_adjusted_ratiobar.svg)
+![img](/images/diabetes_adjusted_grid.svg)
+![img](/images/diabetes_adjusted_dotplots.svg)
+![img](/images/diabetes_adjusted_dmap.svg)
+![img](/images/diabetes_adjusted_hmap.svg)
+![img](/images/diabetes_adjusted_rmap.svg)
+![img](/images/diabetes_adjusted_ratiobar.svg)
