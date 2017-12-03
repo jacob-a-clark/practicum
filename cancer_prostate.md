@@ -15,7 +15,7 @@ Type | Total | Min | 1st Q | Median | Mean | 3rd Q | Max
 
 **Graphical Description**
 
-![](/images/cancer_prostate_count_grid.svg)
+![img](/images/cancer_prostate_count_grid.svg)
 
 
 ***
@@ -26,9 +26,9 @@ Type | Total | Min | 1st Q | Median | Mean | 3rd Q | Max
 
 **Graphical Description**
 
-![](/images/cancer_prostate_adjusted_grid.svg)
-![](/images/cancer_prostate_adjusted_dotplots.svg)
-![](/images/cancer_prostate_adjusted_dmap.svg)
-![](/images/cancer_prostate_adjusted_hmap.svg)
-![](/images/cancer_prostate_adjusted_rmap.svg)
-![](/images/cancer_prostate_adjusted_ratiobar.svg)
+![img](/images/cancer_prostate_adjusted_grid.svg)
+![img](/images/cancer_prostate_adjusted_dotplots.svg)
+![img](/images/cancer_prostate_adjusted_dmap.svg)
+![img](/images/cancer_prostate_adjusted_hmap.svg)
+![img](/images/cancer_prostate_adjusted_rmap.svg)
+![img](/images/cancer_prostate_adjusted_ratiobar.svg)
