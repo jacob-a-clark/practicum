@@ -17,7 +17,7 @@ Type | Total | Min | 1st Q | Median | Mean | 3rd Q | Max
 
 **Graphical Description**
 
-![](/images/gallbladder_disease_count_grid.svg)
+![img](/images/gallbladder_disease_count_grid.svg)
 
 
 ***
@@ -28,9 +28,9 @@ Type | Total | Min | 1st Q | Median | Mean | 3rd Q | Max
 
 **Graphical Description**
 
-![](/images/gallbladder_disease_adjusted_grid.svg)
-![](/images/gallbladder_disease_adjusted_dotplots.svg)
-![](/images/gallbladder_disease_adjusted_dmap.svg)
-![](/images/gallbladder_disease_adjusted_hmap.svg)
-![](/images/gallbladder_disease_adjusted_rmap.svg)
-![](/images/gallbladder_disease_adjusted_ratiobar.svg)
+![img](/images/gallbladder_disease_adjusted_grid.svg)
+![img](/images/gallbladder_disease_adjusted_dotplots.svg)
+![img](/images/gallbladder_disease_adjusted_dmap.svg)
+![img](/images/gallbladder_disease_adjusted_hmap.svg)
+![img](/images/gallbladder_disease_adjusted_rmap.svg)
+![img](/images/gallbladder_disease_adjusted_ratiobar.svg)
