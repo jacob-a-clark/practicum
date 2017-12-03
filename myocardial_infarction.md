@@ -16,7 +16,7 @@ Type | Total | Min | 1st Q | Median | Mean | 3rd Q | Max
 
 **Graphical Description**
 
-![](/images/myocardial_infarction_count_grid.svg)
+![img](/images/myocardial_infarction_count_grid.svg)
 
 
 ***
@@ -27,9 +27,9 @@ Type | Total | Min | 1st Q | Median | Mean | 3rd Q | Max
 
 **Graphical Description**
 
-![](/images/myocardial_infarction_adjusted_grid.svg)
-![](/images/myocardial_infarction_adjusted_dotplots.svg)
-![](/images/myocardial_infarction_adjusted_dmap.svg)
-![](/images/myocardial_infarction_adjusted_hmap.svg)
-![](/images/myocardial_infarction_adjusted_rmap.svg)
-![](/images/myocardial_infarction_adjusted_ratiobar.svg)
+![img](/images/myocardial_infarction_adjusted_grid.svg)
+![img](/images/myocardial_infarction_adjusted_dotplots.svg)
+![img](/images/myocardial_infarction_adjusted_dmap.svg)
+![img](/images/myocardial_infarction_adjusted_hmap.svg)
+![img](/images/myocardial_infarction_adjusted_rmap.svg)
+![img](/images/myocardial_infarction_adjusted_ratiobar.svg)
