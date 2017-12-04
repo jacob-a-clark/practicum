@@ -7,6 +7,19 @@ A key public health official or worker in each county was contacted for aninterv
 
 **Howard County**: Cindy Souhrada, RN, Regional Health Services of Howard County
 
+<br>
+
+After the interviews, many factors were found to be common to both:
+- Rural area
+- Low SES
+- Aging Population
+- Obesity perceived to be a major health issue
+
+Discrepancies where Van Buren was lacking:
+- No transportation for medical services, especially for elderly
+- Inadequate food sources (e.g. low supply of easily accessible fresh produce)
+
+<br>
 
 **Interview Questions:**
 1. *What are the most at-risk groups in your county? Why?*
@@ -27,13 +40,3 @@ A key public health official or worker in each county was contacted for aninterv
     3. *Physical activity*
     4. *Typical jobs*
     5. *Poverty*
-
-After the interviews, many factors were found to be common to both:
-- Rural area
- -Low SES
- -Aging Population
- -Obesity perceived to be a major health issue
-
-Discrepancies where Van Buren was lacking:
-- No transportation for medical services, especially for elderly
-- Inadequate food sources (e.g. low supply of easily accessible fresh produce)
