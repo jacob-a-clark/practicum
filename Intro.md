@@ -1,5 +1,6 @@
 
 
+[Homepage](https://jacob-a-clark.github.io/practicum/)
 # Introduction
 
 ![img](/images/idph_logo.png)
