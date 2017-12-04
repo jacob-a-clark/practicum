@@ -6,7 +6,7 @@ Between the two types of data, seven counties typically scored higher than all t
 
 For the in-patient data, a correlation between some of the heart-related health aspects might have been inflating the numbers (i.e issue of multiple aspects in the same casual pathway for a particular diagnosis).  A weighting system was tested to help remedy this and found no real difference in results.  Several other various iterations, such as scaling the data, were done with similar findings.
 
-Below are the age-adjusted barcharts found in the various health outcome pages, but highlighting the standings of Van Buren (red) and Howard (light blue):
+Below are the age-adjusted barcharts found in the various health outcome pages, but highlighting the standings of Van Buren (red) and Howard (light blue).  Note that Van Buren is generally found near the top and Howard near the bottom:
 
 ![img](/images/diabetes_hospital_3group.svg)
 ![img](/images/diabetes_mortality_3group.svg)
