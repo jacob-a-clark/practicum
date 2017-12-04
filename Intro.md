@@ -2,7 +2,7 @@
 
 # Introduction
 
-![img](/images/idph_logo.jpg)
+![img](/images/idph_logo.png)
 
 The IDPH is Iowa’s leader for population health and is financed through state and federal funding.  Through their guiding principles of accountability, collaboration/teamwork, communication, health equity, quality, results orientation, and workforce development, they strive to improve the quality of life for all Iowans by assuring access to quality population-health services.
 
