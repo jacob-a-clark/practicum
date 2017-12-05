@@ -1,4 +1,3 @@
-[Homepage](https://jacob-a-clark.github.io/practicum/)
 # Heart Failure (Congestive heart failure)
 
 
@@ -35,3 +34,9 @@ Type | Total | Min | 1st Q | Median | Mean | 3rd Q | Max
 ![img](/images/heart_failure_adjusted_hmap.svg)
 ![img](/images/heart_failure_adjusted_rmap.svg)
 ![img](/images/heart_failure_adjusted_ratiobar.svg)
+
+<br>
+
+[Homepage](https://jacob-a-clark.github.io/practicum/)
+
+[<- Colorectal Cancer](cancer_colorectal.md) &emsp;&emsp; [Gallbladder Disease ->](gallbladder_disease.md)
