@@ -38,4 +38,4 @@ Type | Total | Min | 1st Q | Median | Mean | 3rd Q | Max
 
 [Homepage](https://jacob-a-clark.github.io/practicum/)
 
-[<- [Myocardial Infarction](myocardial_infarction.md) &emsp;&emsp; [Breast Cancer ->](cancer_breast.md)
+[<- Myocardial Infarction](myocardial_infarction.md) &emsp;&emsp; [Breast Cancer ->](cancer_breast.md)
