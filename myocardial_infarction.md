@@ -1,4 +1,3 @@
-[Homepage](https://jacob-a-clark.github.io/practicum/)
 # Myocardial Infarction (Heart Attack)
 
 A heart attack occurs if the flow of oxygen-rich blood to a section of heart muscle suddenly becomes blocked. If blood flow isn't restored quickly, the section of heart muscle begins to die.
