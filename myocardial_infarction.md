@@ -34,3 +34,9 @@ Type | Total | Min | 1st Q | Median | Mean | 3rd Q | Max
 ![img](/images/myocardial_infarction_adjusted_hmap.svg)
 ![img](/images/myocardial_infarction_adjusted_rmap.svg)
 ![img](/images/myocardial_infarction_adjusted_ratiobar.svg)
+
+<br>
+
+[Homepage](https://jacob-a-clark.github.io/practicum/)
+
+[<- [Myocardial Infarction](myocardial_infarction.md) &emsp;&emsp; [Breast Cancer ->](cancer_breast.md)
