@@ -39,4 +39,4 @@ Type | Total | Min | 1st Q | Median | Mean | 3rd Q | Max
 
 [Homepage](https://jacob-a-clark.github.io/practicum/)
 
-[<- Hypertension](hypertension.md) &emsp;&emsp; [Myocardial Infarction ->](myocardial_infarction.md)
+[<- diabetes](diabetes.md) &emsp;&emsp; [Myocardial Infarction ->](myocardial_infarction.md)
