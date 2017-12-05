@@ -35,3 +35,9 @@ Type | Total | Min | 1st Q | Median | Mean | 3rd Q | Max
 ![img](/images/hypertension_adjusted_hmap.svg)
 ![img](/images/hypertension_adjusted_rmap.svg)
 ![img](/images/hypertension_adjusted_ratiobar.svg)
+
+<br>
+
+[Homepage](https://jacob-a-clark.github.io/practicum/)
+
+[<- Hypertension](hypertension.md) &emsp;&emsp; [Myocardial Infarction ->](myocardial_infarction.md)
