@@ -1,6 +1,5 @@
 
 
-[Homepage](https://jacob-a-clark.github.io/practicum/)
 # Introduction
 
 ![img](/images/idph_logo.png)
@@ -41,4 +40,10 @@ R statistical software was used for nearly all the work done with the data. Besi
 To tackle this last question, several different graphics using the age-adjusted data were compared.  Using raw counts would have been inappropriate since bigger counties and older-aged counties would have completely skewed the results and display unfair contrasts.  For each health outcome (e.g. diabetes), a pair of bar graphs were displayed side-by-side to check for similarities or differences in distributions between mortality and in-patient data.  Next, Iowa maps colored by rates per county were compared to understand potential geographical characteristics in the two data.  Instead of only juxtaposing the two data, a ratio map and bar graph were also drafted for each health aspect.  As the rates tended to be higher for one data, the color would become more vibrant red or blue for mortality or in-patient respectively.
 
 In general there appears to be a paucity of correlation or pattern between mortality and in-patient data for almost any of the health outcomes.  This leads to a conclusion that treating the two types of data separately was the most suitable course of action in ranking the counties.
+
+<br>
+
+[Homepage](https://jacob-a-clark.github.io/practicum/)
+
+[Diabetes ->](diabetes.md)
 
