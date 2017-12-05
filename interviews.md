@@ -1,4 +1,3 @@
-[Homepage](https://jacob-a-clark.github.io/practicum/)
 # Interviews
 
 A key public health official or worker in each county was contacted for aninterview about their experiences with obesity, obesity-related health outcomes, and possible contributing factors within each county. A list of questions was drafted to act as prompts and guides for the conversations. Rather than assume an obesity issue, the questions were crafted as to allow the public health workers to bring up issues on their end and not guide the conversation based on my assumptions.  Also, the number of questions was limited such that the interview would not go beyond half an hour to be respectful of time considerations.
@@ -40,3 +39,9 @@ Discrepancies where Van Buren was lacking:
     3. *Physical activity*
     4. *Typical jobs*
     5. *Poverty*
+
+<br>
+
+[Homepage](https://jacob-a-clark.github.io/practicum/)
+
+[<- Ranking Method and Results](ranking.md) &emsp;&emsp; [Conclusions ->](conclusions.md)
