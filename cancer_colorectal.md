@@ -1,4 +1,3 @@
-[Homepage](https://jacob-a-clark.github.io/practicum/)
 # Colorectal Cancer
 
 Cancer is a term for diseases in which abnormal cells divide without control and can invade nearby tissues. Colorectal cancer develops in the colon (the longest part of the large intestine) and/or the rectum (the last several inches of the large intestine before the anus).
@@ -33,3 +32,9 @@ Type | Total | Min | 1st Q | Median | Mean | 3rd Q | Max
 ![img](/images/cancer_colorectal_adjusted_hmap.svg)
 ![img](/images/cancer_colorectal_adjusted_rmap.svg)
 ![img](/images/cancer_colorectal_adjusted_ratiobar.svg)
+
+<br>
+
+[Homepage](https://jacob-a-clark.github.io/practicum/)
+
+[<- Prostate Cancer](cancer_prostate.md) &emsp;&emsp; [Congestive Heart Failure ->](heart_failure.md)
