@@ -1,4 +1,3 @@
-[Homepage](https://jacob-a-clark.github.io/practicum/)
 # Gallbladder Disorders (Gallbladder disease)
 
 
@@ -35,3 +34,9 @@ Type | Total | Min | 1st Q | Median | Mean | 3rd Q | Max
 ![img](/images/gallbladder_disease_adjusted_hmap.svg)
 ![img](/images/gallbladder_disease_adjusted_rmap.svg)
 ![img](/images/gallbladder_disease_adjusted_ratiobar.svg)
+
+<br>
+
+[Homepage](https://jacob-a-clark.github.io/practicum/)
+
+[<- Congestive Heart Failure](heart_failure.md) &emsp;&emsp; [Ranking Method and Results ->](ranking.md)
