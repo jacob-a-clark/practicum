@@ -25,3 +25,8 @@ Must, A., Spadano, J., Coakley, E. H., Field, A. E., Colditz, G., Dietz, W. H. T
 
 Strategic plan 2017-2021. Iowa Department of Public Health. 2017. http://idph.iowa.gov/Portals/1/userfiles/7/Polly/IDPH%202017-2021%20Strategic%20Plan%201-10-17.pdf
  
+<br>
+
+[Homepage](https://jacob-a-clark.github.io/practicum/)
+
+[<- Conclusions](conclusions.md)
