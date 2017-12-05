@@ -1,4 +1,3 @@
-[Homepage](https://jacob-a-clark.github.io/practicum/)
 # Conclusions
 
 The results of the quantitative analysis indicate that Van Buren County is of particular high risk of obesity-related outcomes, as compared to other counties in Iowa. Howard County presents an opposite result based on the rankings.  The interviews indicated that obesity was a perceived major issue in both counties, and the impacts of the health outcome were experienced by their public health workers.  Juxtaposing the two counties, however, presents some potential areas of need that may be acting as contributing or protective factors of obesity and its health outcomes.
@@ -21,3 +20,9 @@ Since there are several repositories found in the Tracking Portal, an in-depth e
 To facilitate better ease of access, a guide to using the Tracking Portal data is also recommended. For instance, a quick video tutorial on how to locate specific information, filter, and download data. 
 
 The scoring system devised in this project may be useful for those wanting to pinpoint counties consistently ranking high among a variety of health aspects.  As the tracking portal provides a plethora of information on many different health issues Iowa, this rank scoring system works nicely with age-adjusted data found therein for county comparisons.  Since it puts weight on only those counties in the top ten of the rate of interest, it ignores all the other eighty-eight counties and thus allows quick identification of potential outliers. This means much of the potential sifting and sorting is significantly reduced and manual identification (i.e. “eye-balling”) is viable and, as in the case of this project, more efficient.
+
+<br>
+
+[Homepage](https://jacob-a-clark.github.io/practicum/)
+
+[<- Interviews](interviews.md) &emsp;&emsp; [Appreciation and References ->](references.md)
