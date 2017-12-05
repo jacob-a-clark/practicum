@@ -1,4 +1,4 @@
-
+[Homepage](https://jacob-a-clark.github.io/practicum/)
 # Conclusions
 
 The results of the quantitative analysis indicate that Van Buren County is of particular high risk of obesity-related outcomes, as compared to other counties in Iowa. Howard County presents an opposite result based on the rankings.  The interviews indicated that obesity was a perceived major issue in both counties, and the impacts of the health outcome were experienced by their public health workers.  Juxtaposing the two counties, however, presents some potential areas of need that may be acting as contributing or protective factors of obesity and its health outcomes.
