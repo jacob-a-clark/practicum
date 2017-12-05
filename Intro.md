@@ -29,7 +29,7 @@ Literature review identified eight health aspects highly correlated with obesity
 - Congestive Heart Failure
 - Gallbladder Disease
 
-2013-2015 (aggregated) Counts and age-adjusted rates were fetched from the Tracking Portal from both the in-patient and mortality repositories. 
+2013-2015 (aggregated) Counts and age-adjusted rates were fetched from the secure access area of the Tracking Portal, from both the in-patient and mortality repositories. 
 
 ### Notes on the health aspect pages
 
