@@ -27,6 +27,8 @@ Strategic plan 2017-2021. Iowa Department of Public Health. 2017. http://idph.io
  
 <br>
 
+<br>
+
 [Homepage](https://jacob-a-clark.github.io/practicum/)
 
 [<- Conclusions](conclusions.md)
