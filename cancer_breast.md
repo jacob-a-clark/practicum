@@ -1,4 +1,3 @@
-[Homepage](https://jacob-a-clark.github.io/practicum/)
 # Breast Cancer (Female and Male)
 
 Cancer is a term for diseases in which abnormal cells divide without control and can invade nearby tissues. Breast cancer is a disease in which malignant (cancer) cells form in the tissues of the breast.
@@ -33,3 +32,9 @@ Type | Total | Min | 1st Q | Median | Mean | 3rd Q | Max
 ![img](/images/cancer_breast_adjusted_hmap.svg)
 ![img](/images/cancer_breast_adjusted_rmap.svg)
 ![img](/images/cancer_breast_adjusted_ratiobar.svg)
+
+<br>
+
+[Homepage](https://jacob-a-clark.github.io/practicum/)
+
+[<- Myocardial Infarction](myocardial_infarction.md) &emsp;&emsp; [Prostate Cancer ->](cancer_prostate.md)
