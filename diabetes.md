@@ -39,4 +39,4 @@ Type | Total | Min | 1st Q | Median | Mean | 3rd Q | Max
 
 [Homepage](https://jacob-a-clark.github.io/practicum/)
 
-[<- Introduction](Intro.md)    [Hypertension ->](hypertension.md)
+[<- Introduction](Intro.md) &emsp [Hypertension ->](hypertension.md)
