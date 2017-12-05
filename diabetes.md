@@ -1,4 +1,3 @@
-[Homepage](https://jacob-a-clark.github.io/practicum/)
 # Diabetes Mellitus (Diabetes)
 
 
@@ -35,3 +34,9 @@ Type | Total | Min | 1st Q | Median | Mean | 3rd Q | Max
 ![img](/images/diabetes_adjusted_hmap.svg)
 ![img](/images/diabetes_adjusted_rmap.svg)
 ![img](/images/diabetes_adjusted_ratiobar.svg)
+
+<br>
+
+[Homepage](https://jacob-a-clark.github.io/practicum/)
+
+[<- Introduction](Intro.md)    [Hypertension ->](hypertension.md)
