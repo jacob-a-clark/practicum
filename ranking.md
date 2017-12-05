@@ -1,4 +1,3 @@
-[Homepage](https://jacob-a-clark.github.io/practicum/)
 # Ranking Method and Results
 
 Ranking counties across health aspects was used to determine outlier (high and low) counties for qualitative review.  Rather than a naive ranking of all 99 counties, a scoring method was used to focus on those ranked in the top 5 and top 10 highest/lowest rates. To only capture counties that had higher rates,the scoring system for each health aspect gave counties in the top five a value of two, those within the top six to ten a value of one, and everything else a zero.  This means that the sum of scores across all aspects provided each county a total score that described how often it was in the top ten—and particularly in the top five—highest counties with regard to all aspects.  Scores were totaled separately for the mortality and in-patient data.
@@ -25,3 +24,9 @@ Below are the age-adjusted barcharts found in the various health outcome pages, 
 ![img](/images/cancer_colorectal_mortality_3group.svg)
 ![img](/images/cancer_breast_hospital_3group.svg)
 ![img](/images/cancer_breast_mortality_3group.svg)
+
+<br>
+
+[Homepage](https://jacob-a-clark.github.io/practicum/)
+
+[<- Gallbladder Disease](gallbladder_disease.md) &emsp;&emsp; [Interviews ->](interviews.md)
